@@ -1,2 +1,2 @@
 Space invaders style game created with HTML/CSS, Javascript and Python. Focus was on Javascript/Python for this project.
-Created in first year without understanding OOP concepts.
+Created in first year without understanding OOP concepts. Requires domain to run, similarly to snake game

@@ -1,0 +1,1 @@
+Multilevel Feedback Queue Simulator created for an assignment for OS module. Simulates how a MFQ manages times slices for each process based on priority level. Also simulates blockage of processes that took too long to execute
